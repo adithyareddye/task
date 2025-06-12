@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","7079","Test Case 2 - Steam Market: prices sorting","chromium","Wed Jun 11 21:44:39 EEST 2025","passed","Wed Jun 11 21:44:46 EEST 2025","","test-case-2.spec.js","",""
+"","7165","Test Case 1 - Steam Market: advanced search","chromium","Wed Jun 11 21:44:39 EEST 2025","passed","Wed Jun 11 21:44:46 EEST 2025","","test-case-1.spec.js","",""

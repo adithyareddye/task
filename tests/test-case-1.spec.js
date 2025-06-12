@@ -5,7 +5,7 @@ const SearchFiltersPage = require('../pages/SearchFiltersPage');
 const SearchResultsPage = require('../pages/SearchResultsPage');
 const ItemDetailsPage = require('../pages/ItemDetailsPage');
 
-test.only('Test Case 1 - Steam Market: advanced search', async ({ page, baseURL }) => {
+test('Test Case 1 - Steam Market: advanced search', async ({ page, baseURL }) => {
   const home = new HomePage(page);
   const market = new CommunityMarketPage(page);
   const filters = new SearchFiltersPage(page);
